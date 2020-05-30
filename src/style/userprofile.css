@@ -1,0 +1,92 @@
+.avatar {
+  border-radius: 50%;
+  width: 100px;
+}
+.profile {
+  text-align: center;
+}
+
+.contentCard {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ant-tabs-tabpane.ant-tabs-tabpane-active {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.listupdateat {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.blue {
+  color: #1890ff;
+}
+.time {
+  color: rgba(0, 0, 0, 0.25);
+}
+.listpara {
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 14px;
+  margin-top: 15px;
+  width: 80%;
+}
+.detail_card {
+  flex-wrap: wrap;
+}
+.teamlogo {
+  border-radius: 50%;
+  width: 25px;
+  margin-right: 8px;
+}
+.cont_detail {
+  padding: 20px;
+}
+.active_new {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 15px;
+}
+.active_new h4 {
+  color: rgba(0, 0, 0, 0.45);
+}
+.active_new h2 {
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.content_in {
+  padding: 20px;
+}
+
+.content_in h5 {
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 1em;
+}
+.mem_list {
+  list-style: none;
+  margin-left: -12px;
+}
+.member_list {
+  display: flex;
+}
+.mem_img {
+  display: inline-block;
+}
+.member_list img {
+  width: 30px !important;
+}
+.last_Seen {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+.last_Seen p {
+  margin-top: 15px;
+  color: rgba(0, 0, 0, 0.45);
+  font-size: 13px;
+}
+.listupdateat {
+  padding: 0;
+}
